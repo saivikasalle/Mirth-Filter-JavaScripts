@@ -1,0 +1,7 @@
+if (msg['PID']['PID.5']['PID.5.1'].length()>0)
+
+{return true} // it should pass
+
+else
+
+{return false} // it should get filtered out
