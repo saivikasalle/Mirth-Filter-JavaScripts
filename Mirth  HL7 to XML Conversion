@@ -23,6 +23,16 @@ Output
     <attendingphysdegree>xxxxxxx</attendingphysdegree>  //pv1 7.7
 </PateintDetails>
 
+Edited/missing output Template(Vikas):
+<PateintDetails>
+    <ID>xxxxxxx</ID>
+    <BedName>xxxxxxxx</BedName>
+    <PatientName>xxxxxxxxe</PatientName>
+    <attendingphys>xxxxxx</attendingphys>
+    <attendingphysprefix>xxxxxxxxx</attendingphysprefix>
+    <attendingphysdegree>xxxxxxx</attendingphysdegree>
+</PateintDetails>
+
 
 
 //##################Code###############//
