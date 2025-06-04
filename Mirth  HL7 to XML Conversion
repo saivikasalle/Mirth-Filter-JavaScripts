@@ -14,7 +14,7 @@ OBX|2|NM|zLB^zlbumine||41|g/L^g/L|48-82^48^82|||? Unknzxwn|zuth (Verified)|||292
 
 Output
 
-PateintDetails>
+<PateintDetails>
     <ID>xxxxxxx</ID>  // PV1 3.8 without space
     <BedName>xxxxxxxx</BedName> //pv1 3.8
     <PatientName>xxxxxxxxe</PatientName>  // pid 5
