@@ -23,19 +23,19 @@ msg = delimitedMessage;
 
 
 //Smaple JSON MSG to TEST
-//
-//{
-//  "patient": {
-//    "id": "12345",
-//    "name": "John Doe",
-//    "gender": "M",
-//    "dob": "1980-01-15"
-//  },
-//  "visit": {
-//    "id": "67890",
-//    "admitDate": "2023-07-27"
-//  }
-//}
+
+{
+  "patient": {
+    "id": "12345",
+    "name": "John Doe",
+    "gender": "M",
+    "dob": "1980-01-15"
+  },
+  "visit": {
+    "id": "67890",
+    "admitDate": "2023-07-27"
+  }
+}
 
 #########  Method 2 - Mapping #########
 
