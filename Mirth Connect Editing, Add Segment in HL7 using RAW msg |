@@ -11,7 +11,7 @@ msg['PID']['PID.8']['PID.8.1'] = 'M'; // Male
 msg['NK1']['NK1.2']['NK1.2.1'] = 'Spouse Name';
 
 
-var newObxSegment = 'OBX|1|ST|1001^Result^L||This is a new result|';
+var newObxSegment = '1|ST|1001^Result^L||This is a new result|';
 msg['OBX'] = newObxSegment;
 
 
