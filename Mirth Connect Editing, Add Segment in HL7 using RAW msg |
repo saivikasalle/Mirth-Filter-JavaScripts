@@ -16,8 +16,8 @@ msg['OBX'] = newObxSegment;
 
 
 
-if (msg['NK1']) {
-    delete msg['NK1'];
+if (msg['PID']) {
+    delete msg['PID'];
 } else {
-    // Handle the case where NK1 segment doesn't exist
+    // Handle the case where PID segment doesn't exist
 }
