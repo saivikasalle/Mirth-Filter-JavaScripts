@@ -1,8 +1,7 @@
 52 Calculate Patients AGE
 
 
-//Calculate Age (PID-7): Calculate the patient's age based on their date of birth (PID-7
-) and update PID-7 with the calculated age.
+//Calculate Age (PID-7): Calculate the patient's age based on their date of birth (PID-7 and update PID-7 with the calculated age.
 
 
 // Extract the date of birth (DOB) from the message and convert it to a string.
