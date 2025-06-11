@@ -18,6 +18,12 @@ function deleteSegments(msg, segments) {
 }
 
 
+
+// Delete the specified segments which are not required by Receiving Application
+deleteSegments(msg, ['ZWA','ZIN','ZPV','PD1','ROL', 'PID', 'EVN', 'PV1', 'PV2','ZPV', 'OBX', 'NK1', 'DG1', 'PR1', 'GT1', 'IN1', 'IN2', 'IN3', 'IN4', 'IAM', 'AIG', 'AIS', 'ACC', 'AL1', 'UB1', 'UB2', 'IN2', 'IN3', 'IN4']);
+
+
+
 ###Sample HL7 MSG to Test###
 
 MSH|^~&|SendingApplication|SendingFacility|ReceivingAppon|Receivility|MessageDateTime||ADT^A04|MeontrolID|ProcessingID|VersionID|
