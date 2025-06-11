@@ -4,7 +4,7 @@
 
 var lastName = msg['PID']['PID.5']['PID.5.1'].toString();
 var firstName = msg['PID']['PID.6']['PID.6.1'].toString();
-msg['PID']['PID.5']['PID.5.1'] = lastName + ', ' + firstName;
+msg['PID']['PID.5']['PID.5.1'] = lastName + firstName;
 delete msg['PID']['PID.6']; // Remove PID-6
 
 
