@@ -28,3 +28,6 @@ ASC|||
 OBX||
 OBR||
 ZPV||||||
+-------------x---------------
+
+We want to delete all the segments above except MSH & EVN: the above code should be used.
